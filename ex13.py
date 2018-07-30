@@ -3,7 +3,7 @@ from sys import argv, exit
 print argv
 
 if len(argv) != 4:
-	print "Need to supply 3 arguments!"
+	print "Need to supply 3 argumentsx
 	exit(1)
 
 script, first, second, third = argv
@@ -13,4 +13,5 @@ print "Your first variable is:", first
 print "Your second variable is:", second
 print "Your third variable is:", third
 
-# READ THE WHOLE LESSON BEFORE PULLING YOUR HAIR OUT TRYING TO UNDERSTAND WHAT WENT WRONG
+# READ THE WHOLE LESSON BEFORE PULLING YOUR HAIR OUT TRYING TO UNDERSTAND WHAT WENT WRONG                                                                 lm
+                                                                                                                                                                                                                                                                                                                                               
